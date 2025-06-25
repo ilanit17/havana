@@ -1,0 +1,5 @@
+{
+  "name": "Hebrew Worksheet Generator",
+  "description": "An application to generate various types of Hebrew language exercises from a given text using the Gemini API.",
+  "requestFramePermissions": []
+}
